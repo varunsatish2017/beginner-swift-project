@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing)](https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing)
 
 
 ## App Brainstorming (Step 4)
