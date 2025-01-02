@@ -21,12 +21,12 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-My favorite app features:
-- Instagram: Refresh the page by scrolling up at the top of the page
+My favorite features from apps:
+- Twitter, Instagram, and other social media apps: Refresh the page by swiping down at the top of the page
 - 
 
-My App Idea: WeatherReminder
-- 
+My App Idea:
+- Based on weather conditions 
 
 ## Notes
 
