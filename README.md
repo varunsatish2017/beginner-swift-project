@@ -23,10 +23,13 @@ The following **required** functionality is completed:
 
 My favorite features from apps:
 - Twitter, Instagram, and other social media apps: Refresh the page by swiping down at the top of the page
-- 
+- Apple's Reminders app: Group/auto-categorize reminders
+- Clash Royale: Display logo on launch
 
-My App Idea:
-- Based on weather conditions 
+My App Idea: WeatherReminder
+- Can remind you to do things (watering plants, gardening, outdoor recreation, etc.) based on recent weather conditions 
+- Apple's "Reminders" can only send you reminders based on time, location, and priority (cannot based on weather conditions)
+- Coming up with a plan for implementation!
 
 ## Notes
 
