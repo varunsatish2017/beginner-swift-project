@@ -15,9 +15,15 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
+## Video Walkthrough 
 
-https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing 
+<html>
+<head>
+</head>
+<body>
+<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing"></iframe>
+</body>
+</html>
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
