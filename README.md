@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 <head>
 </head>
 <body>
-<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing"></iframe>
+<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/preview"></iframe>
 </body>
 </html>
 
