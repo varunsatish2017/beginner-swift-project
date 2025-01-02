@@ -17,13 +17,16 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-<iframe src="https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing)
+
 
 ## App Brainstorming (Step 4)
 
 **My favorite app features:**
+- 
 
-
+**My App Idea:**
+- 
 
 ## Notes
 
