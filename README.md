@@ -17,17 +17,21 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
+**My favorite app features:**
+
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+Nothing major, but when I was trying to make the "change text color" feature, I got an _NSExceptionError_ that caused the app to crash. 
 
 ## License
 
