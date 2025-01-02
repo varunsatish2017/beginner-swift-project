@@ -17,15 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-<html>
-<head>
-</head>
-<body>
-<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/preview"></iframe>
-</body>
-</html>
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<iframe src="https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## App Brainstorming (Step 4)
 
