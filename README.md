@@ -17,8 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough 
 
-[![Watch the video](https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing)](https://drive.google.com/file/d/1MSDWZGPMZhBi8bFmtjxXX8U2_J6wEtuI/view?usp=sharing)
-
+![Simulator Screen Recording - iPhone 16 Pro Max - 2025-01-02 at 11 43 10](https://github.com/user-attachments/assets/7b0295c1-3929-45d2-8d16-326b67891a9c)
 
 ## App Brainstorming (Step 4)
 
