@@ -21,10 +21,11 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-**My favorite app features:**
+My favorite app features:
+- Instagram: Refresh the page by scrolling up at the top of the page
 - 
 
-**My App Idea:**
+My App Idea: WeatherReminder
 - 
 
 ## Notes
